@@ -3,6 +3,16 @@
 This repository contains a set of examples implemented in
 [TensorFlow.js](http://js.tensorflow.org).
 
+
+
+
+my site at 
+
+https://hpssjellis.github.io/tfjs-examples/
+
+
+
+
 Each example directory is standalone so the directory can be copied
 to another project.
 
